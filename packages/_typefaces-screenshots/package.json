@@ -1,0 +1,11 @@
+{
+  "name": "typefaces-screenshots",
+  "version": "1.0.0",
+  "description": "A screenshot making utility for typefaces",
+  "dependencies": {
+    "typeface-abeezee": "*"
+  },
+  "scripts": {
+    "start": "webpack-dev-server --hot --devtool cheap-module-source-map"
+  }
+}
